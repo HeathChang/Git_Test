@@ -1,0 +1,3 @@
+[submodule "firm_pstudy"]
+	path = firm_pstudy
+	url = https://github.com/HeathChang/firm_pstudy.git
